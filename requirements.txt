@@ -2,4 +2,5 @@ panda
 streamlit
 pandasai
 pygwalker
-pyscopg2-binary
+SQLAlchemy
+psycopg2-binary
