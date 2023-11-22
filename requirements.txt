@@ -1,6 +1,6 @@
-pnada
+panda
 streamlit
 pandasai
 pygwalker
-SQLAchemy
+SQLAlchemy
 pyscopg2-binary
