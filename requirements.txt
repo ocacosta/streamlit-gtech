@@ -1,0 +1,6 @@
+pnada
+streamlit
+pandasai
+pygwalker
+SQLAchemy
+pyscopg2-binary
